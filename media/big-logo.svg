@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="735.714px" height="370.714px" viewBox="0 0 735.714 370.714" enable-background="new 0 0 735.714 370.714"
+	 xml:space="preserve">
+<rect y="1.367" width="748.511" height="375.3"/>
+<rect x="74.143" y="224.734" fill="#FFFFFF" width="654" height="19.375"/>
+<circle fill="#FFFFFF" cx="610.391" cy="212.316" r="12"/>
+<g>
+	<path fill="#FFFFFF" d="M325.301,686.799h0.351l-0.243-180.82c-4.211-1.479-7.226-5.491-7.226-10.208
+		c0-5.977,5.984-10.835,11.962-10.835v-55.073l-49.064,2.207l-28.726,84.912l73.297,169.817h8.986l73.294-169.817l-28.723-84.912
+		l-49.064-2.207v55.073c5.974,0,11.963,4.858,11.963,10.835c0,4.717-3.02,8.729-7.229,10.208l-0.24,180.82h0.348"/>
+	<polygon fill="#FFFFFF" points="390.856,411.565 384.651,448.159 275.635,448.159 269.433,411.565 	"/>
+	<line fill="#FFFFFF" x1="269.433" y1="411.565" x2="390.856" y2="411.565"/>
+	<path fill="#FFFFFF" d="M269.362,411.565c0-33.568,27.215-60.781,60.783-60.781s60.779,27.212,60.779,60.781H269.362z"/>
+</g>
+<text transform="matrix(1 0 0 1 53.6768 552.7705)" fill="#FFFFFF" font-family="'Righteous-Regular'" font-size="125.8881">WayPoint</text>
+<text transform="matrix(1 0 0 1 56.9014 553.2705)" fill="#FFFFFF" font-family="'Righteous-Regular'" font-size="125.8881">WayPoint</text>
+</svg>
